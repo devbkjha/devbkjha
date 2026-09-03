@@ -1,5 +1,10 @@
-# 👋 Hi, I'm Baibhav Kumar Jha...
+<h1 align="center">
+  Hi 👋, I'm Baibhav Kumar Jha...
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Baibhav+Kumar+Jha;B.Tech+CSE+Student;C+%7C+C%2B%2B+%7C+Python;Learning+DSA+%26+AI;Open+Source+Enthusiast" />
+</p>
 ### 💻 B.Tech CSE Student | Programmer | Tech Enthusiast
 
 ---
