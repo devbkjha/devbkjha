@@ -57,5 +57,18 @@ Feel free to explore my repositories and connect with me!
 If you like my projects, consider giving them a ⭐ on GitHub!
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devbkjha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbkjha&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbkjha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=devbkjha&theme=tokyonight&hide_border=true" />
+</p>
 
 ### ❤️ Thanks for Visiting!
