@@ -30,7 +30,11 @@ Feel free to explore my repositories and connect with me!
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.instagram.com/ak_9989_?igsi=MWZxaWh5Mm8zbG5qYQ==">
+ <a href="mailto:baibhavkumarjha9989@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
+<a href="https://www.instagram.com/ak_9989_?igsi=MWZxaWh5Mm8zbG5qYQ==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
