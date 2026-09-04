@@ -39,7 +39,7 @@ Feel free to explore my repositories and connect with me!
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
-<a href="https://www.instagram.com/ak_9989_?igsi=MWZxaWh5Mm8zbG5qYQ==">
+<a href="https://www.instagram.com/devbkjha?igsi=MWZxaWh5Mm8zbG5qYQ==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
